@@ -1,9 +1,5 @@
 # Hugo configuration file
-<<<<<<< Updated upstream
 title: Rational Exponent
-=======
-title: RATIO EXPONENT
->>>>>>> Stashed changes
 
 # import hextra as module
 module:
