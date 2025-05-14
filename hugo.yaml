@@ -51,6 +51,12 @@ params:
       alt: Rational Exponent Logo
       width: 100
       height: 50
+  style:
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+    customCSS:
+      - css/custom.css
 
   footer:
     displayCopyright: false
@@ -66,10 +72,4 @@ params:
 
 
 
-params:
-  style:
-  page:
-    # full (100%), wide (90rem), normal (1280px)
-    width: full
-    customCSS:
-      - css/custom.css
+
