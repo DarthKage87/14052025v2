@@ -42,7 +42,6 @@ menu:
      # params:
        # icon: x-twitter
 
-params:
  params:
   navbar:
     displayTitle: false
