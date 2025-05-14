@@ -5,7 +5,7 @@
 ![Vercel Deployment Status](https://img.shields.io/github/deployments/imfing/hextra-starter-template/production?logo=vercel&logoColor=white&label=vercel&labelColor=black&link=https%3A%2F%2Fhextra-starter-template.vercel.app%2F)
 
 
-🐣 Minimal template for getting started with [Hextra](https://github.com/imfing/hextra)
+🐣 Minimal template  for getting started with [Hextra](https://github.com/imfing/hextra)
 
 ![hextra-template](https://github.com/imfing/hextra-starter-template/assets/5097752/c403b9a9-a76c-47a6-8466-513d772ef0b7)
 
