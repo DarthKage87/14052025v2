@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Rational Exponent
 
 # import hextra as module
 module:
@@ -27,25 +27,30 @@ menu:
     - name: Contact ↗
       url: "https://github.com/imfing"
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
+    #- name: Search
+     # weight: 4
+      #params:
+      #  type: search
+    - name: linkedin
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "linkedin.com"
       params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+        icon: linkedin
+    #- name: Twitter
+      #weight: 6
+     #url: "https://twitter.com/"
+     # params:
+       # icon: x-twitter
 
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: Picture1.png
+      alt: Rational Exponent Logo
+      width: 130
+      height: 50
 
   footer:
     displayCopyright: false
