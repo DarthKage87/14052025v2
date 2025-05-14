@@ -49,7 +49,7 @@ params:
     logo:
       path: Picture1.png
       alt: Rational Exponent Logo
-      width: 140
+      width: 150
       height: 50
 
   footer:
