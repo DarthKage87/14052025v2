@@ -56,4 +56,5 @@ params:
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
   theme:
-    defaultColorMode: light
+    default: light
+    displayToggle: false
