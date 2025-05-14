@@ -42,14 +42,14 @@ menu:
      # params:
        # icon: x-twitter
 
- params:
+params:
   navbar:
     displayTitle: false
     displayLogo: true
     logo:
       path: Picture1.png
       alt: Rational Exponent Logo
-      width: 130
+      width: 140
       height: 50
 
   footer:
