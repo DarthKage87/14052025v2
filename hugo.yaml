@@ -49,7 +49,7 @@ params:
     logo:
       path: Picture1.png
       alt: Rational Exponent Logo
-      width: 150
+      width: 100
       height: 50
 
   footer:
@@ -63,3 +63,12 @@ params:
   theme:
     default: light
     displayToggle: false
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+
+params:
+  style:
+    customCSS:
+      - css/custom.css
