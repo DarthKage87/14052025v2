@@ -1,5 +1,9 @@
 # Hugo configuration file
+<<<<<<< Updated upstream
 title: Rational Exponent
+=======
+title: RATIO EXPONENT
+>>>>>>> Stashed changes
 
 # import hextra as module
 module:
@@ -18,7 +22,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Home
       pageRef: /docs
       weight: 1
     - name: About
@@ -28,6 +32,7 @@ menu:
       url: "https://github.com/imfing"
       weight: 3
     #- name: Search
+<<<<<<< Updated upstream
      # weight: 4
       #params:
       #  type: search
@@ -40,17 +45,40 @@ menu:
       #weight: 6
      #url: "https://twitter.com/"
      # params:
+=======
+      #weight: 4
+      #params:
+       # type: search
+        
+    - name: linkedin
+      weight: 5
+      url: "https://www.linkedin.com/company/rational-exponent/posts/?feedView=all"
+      params:
+        icon: linkedin
+   # - name: Twitter
+      #weight: 6
+      ##url: "https://twitter.com/"
+      #params:
+>>>>>>> Stashed changes
        # icon: x-twitter
 
 params:
+ params:
   navbar:
     displayTitle: false
     displayLogo: true
     logo:
+<<<<<<< Updated upstream
       path: Picture1.png
       alt: Rational Exponent Logo
       width: 130
       height: 50
+=======
+      path: re-logo.png
+      link: /
+      width: 100
+      height: 20
+>>>>>>> Stashed changes
 
   footer:
     displayCopyright: false
