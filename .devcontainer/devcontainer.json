@@ -17,7 +17,6 @@
       ]
     }
   },
-  "forwardPorts": [
-    1313
-  ]
+  "forwardPorts": [1313],
+  "postStartCommand": "hugo server --bind 0.0.0.0 --baseURL http://localhost -D --watch"
 }
