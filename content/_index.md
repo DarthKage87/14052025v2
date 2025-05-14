@@ -4,7 +4,9 @@ toc: false
 ---
 
 <section class="hx-w-full hx-mb-8">
+
   <img src="Picture1.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+
 </section>
 
 This is the landing page.
