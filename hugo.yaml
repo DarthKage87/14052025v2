@@ -47,7 +47,7 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: Picture1.png
+      path: pic6.png
       alt: Rational Exponent Logo
       width: 100
       height: 50
@@ -68,7 +68,7 @@ params:
 
   theme:
     default: light
-    displayToggle: false
+    displayToggle: true
 
 
 
