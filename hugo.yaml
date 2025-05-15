@@ -33,7 +33,7 @@ menu:
       #  type: search
     - name: linkedin
       weight: 5
-      url: "linkedin.com"
+      url: "https://www.linkedin.com/company/rational-exponent"
       params:
         icon: linkedin
     #- name: Twitter
