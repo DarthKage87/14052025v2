@@ -4,7 +4,13 @@ toc: false
 ---
 
 <section class="hx-w-full hx-mb-8">
+<<<<<<< HEAD
   <img src="pic5.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+=======
+
+  <img src="Picture1.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+
+>>>>>>> 1b96db28553a369774a63f7abe4248ec6216c5f2
 </section>
 
 This is the landing page.
