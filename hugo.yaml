@@ -65,7 +65,7 @@ params:
     - css/custom.css
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
 
   editURL:
