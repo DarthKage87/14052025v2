@@ -15,7 +15,10 @@ Banks today face a paradox: the demand to innovate at speed—while navigating e
 
 The opportunity is clear: transform governance and risk from operational overhead into intelligent drivers of business acceleration, adaptability, and scale.
 
-
+```python
+def say_hello():
+    print("Hello!")
+```
 
 
 <section class="hx-w-full hx-mb-8">
