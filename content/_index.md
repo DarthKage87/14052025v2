@@ -35,7 +35,7 @@ We are former bankers, regulatory experts, and current-day technologists. We do 
 
 ## RE:Agent: Your Engine for Intelligent Business Execution
 
-RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with greater intelligence, confidence and control**</span> —whether you are steering compliance, managing risk, launching innovative new products and services, or executing M&A. It goes beyond streamlining processes by embedding execution-ready intelligence into daily workflows, transforming static policies into dynamic guidance that enables banks to take smarter actions, innovate safely, unlock business value, and continuously align with prudent governance.
+RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with greater intelligence, confidence and control**</span> —whether you are steering compliance, managing risk, launching innovative new products and services, or executing M&A. It goes beyond streamlining processes by embedding execution-ready intelligence into daily workflows, transforming static policies into dynamic guidance that enables banks to take smarter actions, innovate safely, unlock business value, and continuously align with prudent governance. 
 
 ## One platform. Four mission-critical Roles. Unified results.
 
