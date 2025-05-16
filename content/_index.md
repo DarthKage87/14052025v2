@@ -29,7 +29,7 @@ toc: false
 
 <span style="color: #ec008c;">**AI Designed for Banks. Built By Bankers.**</span> 
 
-We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span style="color: #ec008c;">**we have lived it.**</span>  We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity.
+We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span styl>**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.*e="color: #ec008c;">**we have lived it.**</span>  We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity.
 
 
 
@@ -42,7 +42,7 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
 
 <br>
 
-</div>
+
 
 <div class="grid grid-cols-2 md:grid-cols-2 gap-6">
 
@@ -53,16 +53,73 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
   {{< hextra/feature-card title="Innovation Owners" subtitle="Bring new products and services to market with built-in compliance and execution clarity. RE:Agent dynamically converts controls into execution-ready launch plans—so innovation moves faster and without friction." >}}
 
   {{< hextra/feature-card title="M&A and Strategic Growth Teams" subtitle="Accelerate integration, reduce regulatory friction, and unlock value faster. RE:Agent aligns compliance postures across entities—streamlining governance and speeding operational readiness." >}}
+
 </div>
 
 <br>
-<br>
-<br>
-<br>
 
-<section class="hx-w-full hx-mb-8">
 
-**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**
+
+<span style="color: #ec008c;">**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**</span>
 
 
 ## Scalable Solutions. Transformative Outcomes.
+
+Purpose-built for agility, transparency, and real-time guidance at scale, <span style="color: #ec008c;">RE:Agent delivers business value from day one—without disrupting routines or requiring complex retraining.</span>  Our intuitive AI interfaces enable teams to translate insight into action instantly. The result? Accelerating outcomes, elevating operational performance, and driving innovation.
+
+RE:Agent Modules (WILL NEED LINKS TO WEB PAGES) <br>
+Compliance Engine <br>
+Risk Intelligence Hub <br>
+Innovation Accelerator <br>
+M&A Alignment Optimizer <br>
+
+
+## From Operational Drag to Business Agility
+
+Banks that adopt RE:Agent experience: <br>
+XX% Faster Audit cycles<br>
+XX% Risk reduction<br>
+XX% Faster time to market<br>
+XX% Reduced costs<br>
+
+
+## Getting Started is as Easy as 1-2-3
+
+Rational Exponent makes it simple for you to begin seeing value from day one, without complex retraining or process overhauls. Our expert-led onboarding connects RE:Agent to your existing systems quickly and disruption free.
+
+1.	Assess: We evaluate your exiting risk and compliance workflows.
+2.	Integrate: We integrate RE:Agent with minimal disruption—no complex retraining needed.
+3.	Scale: We support your ongoing optimization so you can evolve in sync with regulations and growth.
+
+[CTA- SCHEDULE A DEMO]
+
+## What Makes RE:Agent Different? 
+
+RE:Agent is built for the way banks work—and for the way banks need to grow. Our approach is grounded in practical experience and intelligent design that benefit customers:
+
+Ease of Adoption — Intuitive interfaces require little to no training <br>
+Execution-Ready Intelligence -- Embedded guidance right where decisions are made <br>
+Streamlined Operations — Eliminate friction. Reduce rework and risk.<br>
+Accelerated Decisions — Contextual guidance enables fast, explainable actions<br>
+Scalable Intelligence — Grow your operations without bloating your workforce or risk exposure <br>
+Innovation with Control — New products, new markets, zero unnecessary risk<br>
+
+## Governance and Risk Should Not Be Constraints. They Should Be Growth Catalysts 
+
+Risk management should be about unlocking business value—faster, smarter, and with purpose. Rational Exponent believes they should not be operational overhead—they  should be intelligent drivers of business acceleration.
+RE:Agent –the AI-powered platform that turns governance into growth.
+
+## Xxx xxx xxx xxx xxx (customer logos)
+
+[See our use cases]
+
+## Free XXX for Banking Leaders
+
+Download our XXX to see how Rational Exponent can modernize your banking model—faster, smarter, and prudently. 
+[Download the XXX Now]
+
+## Lead with Confidence. Growth with Intelligence.
+
+Ready to turn complexity into business agility? Let Rationalize Exponent help  modernize your risk and compliance today.
+
+[Request a Demo]
