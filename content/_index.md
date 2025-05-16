@@ -4,7 +4,7 @@ toc: false
 ---
 
 <section class="hx-w-full hx-mb-8">
-  <img src="test.gif" alt="Hero banner" class="hx-w-full hx-h-auto" />
+  <img src="test1.gif" alt="Hero banner" class="hx-w-full hx-h-auto"  />
 </section>
 
 
