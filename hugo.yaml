@@ -16,6 +16,9 @@ markup:
   highlight:
     noClasses: false
 
+params:
+  customCSS: ["css/custom.css"]
+
 menu:
   main:
     - name: Home
@@ -58,12 +61,12 @@ params:
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: full
-    customCSS:
-      - css/custom.css
+  customCSS:
+    - css/custom.css
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
@@ -71,7 +74,7 @@ params:
 
   theme:
     default: light
-    displayToggle: true
+    displayToggle: false
 
 
 
