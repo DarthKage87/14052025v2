@@ -16,7 +16,7 @@ toc: false
 
 
 <section class="hx-w-full hx-mb-8">
-  <img src="pic12.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+  <img src="pic14.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
 </section>
 
 
@@ -26,7 +26,19 @@ toc: false
 
 
 <section class="hx-w-full hx-mb-8">
-  <img src="pic13.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+  <img src="pic15.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
 </section>
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+
+
+## Introducing RE:Agent
+
+<section class="hx-w-full hx-mb-8">
+  <img src="pic16.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+</section>
+
+## Get Started With a Demo
+
+<section class="hx-w-full hx-mb-8">
+  <img src="pic17.png" alt="Hero banner" class="hx-w-full hx-h-auto" />
+</section>
