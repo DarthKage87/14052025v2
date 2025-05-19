@@ -56,7 +56,7 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
 {{< hextra/feature-card title="Compliance Leaders" subtitle="Ensure alignment and stay audit-ready." >}}
 {{< hextra/feature-card title="Risk Executives" subtitle="Gain visibility and reduce exposure." >}}
 {{< hextra/feature-card title="Innovation Owners" subtitle="Launch with compliance clarity." >}}
-{{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value.." >}}
+{{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value." >}}
 
 </div>
 
