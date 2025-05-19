@@ -24,9 +24,9 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Solutions
-      pageRef: /docs
-      weight: 1
+    #- name: Solutions
+      #pageRef: /docs
+     #weight: 1
     - name: About
       pageRef: about
       weight: 2

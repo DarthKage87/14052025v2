@@ -1,7 +1,3 @@
----
-title: About
-type: about
----
 
 
 # Rational Exponent Leadership Team
