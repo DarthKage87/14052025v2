@@ -34,7 +34,7 @@ toc: false
 
   <!-- Card with Image Only -->
   <div class="bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all h-full">
-    <img src="/bwbankers.jpg" alt="Descriptive text" class="w-full h-auto rounded-md" />
+    <img src="bwbankers.jpg" alt="Descriptive text" class="w-full h-auto rounded-md" />
   </div>
 
 </div>
