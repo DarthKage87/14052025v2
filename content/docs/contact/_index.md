@@ -4,6 +4,7 @@ draft:
 title: 'Contact Us'
 cascade:
   type: default
+prev: docs/about/
 ---
 
 {{< hextra/feature-grid >}}
