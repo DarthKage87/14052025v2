@@ -28,11 +28,11 @@ menu:
       pageRef: /docs
       weight: 2
     - name: About
-      pageRef: about
+      pageRef: /about
       weight: 3
     - name: Contact ↗
-      pageRef: "/contact"
-      weight: 3
+      pageRef: /contact
+      weight: 4
     #- name: Search
      # weight: 4
       #params:
