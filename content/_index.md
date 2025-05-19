@@ -27,6 +27,7 @@ toc: false
 
 ## That’s Why Rational Exponent Exists.
 
+
 <span style="color: #ec008c;">**AI Designed for Banks. Built By Bankers.**</span> 
 <div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols:2">
 
