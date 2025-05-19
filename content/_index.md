@@ -28,13 +28,17 @@ toc: false
 ## That’s Why Rational Exponent Exists.
 
 <span style="color: #ec008c;">**AI Designed for Banks. Built By Bankers.**</span> 
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols:2">
 
-<section class="hx-w-full hx-mb-8">
-  <img src="bwbankers.jpg" alt="Hero banner" class="hx-w-full hx-h-auto"  />
-</section>
 
-We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span style="color: #ec008c;">**we have lived it.**</span> We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity.
+  We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span style="color: #ec008c;">**we have lived it.**</span> We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity.
 
+  <!-- Card with Image Only -->
+  <div class="bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all h-full">
+    <img src="/bwbankers.jpg" alt="Descriptive text" class="w-full h-auto rounded-md" />
+  </div>
+
+</div>
 
 
 ## RE:Agent: Your Engine for Intelligent Business Execution
@@ -59,6 +63,8 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
 {{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value." >}}
 
 </div>
+
+
 
 
 <span style="color: #ec008c;">**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**</span>
