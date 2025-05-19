@@ -25,11 +25,11 @@ menu:
       pageRef: /
       weight: 1
     - name: Solutions
-      #pageRef: /docs
-      #weight: 1
+      pageRef: /docs
+      weight: 2
     - name: About
       pageRef: about
-      weight: 2
+      weight: 3
     - name: Contact ↗
       pageRef: "/contact"
       weight: 3
