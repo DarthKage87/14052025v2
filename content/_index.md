@@ -29,6 +29,10 @@ toc: false
 
 <span style="color: #ec008c;">**AI Designed for Banks. Built By Bankers.**</span> 
 
+<section class="hx-w-full hx-mb-8">
+  <img src="bwbankers.jpg" alt="Hero banner" class="hx-w-full hx-h-auto"  />
+</section>
+
 We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span style="color: #ec008c;">**we have lived it.**</span> We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity.
 
 
@@ -36,6 +40,10 @@ We are former bankers, regulatory experts, and current-day technologists. We do 
 ## RE:Agent: Your Engine for Intelligent Business Execution
 
 RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with greater intelligence, confidence and control**</span> —whether you are steering compliance, managing risk, launching innovative new products and services, or executing M&A. It goes beyond streamlining processes by embedding execution-ready intelligence into daily workflows, transforming static policies into dynamic guidance that enables banks to take smarter actions, innovate safely, unlock business value, and continuously align with prudent governance. 
+
+<section class="hx-w-full hx-mb-8">
+  <img src="go.png" alt="Hero banner" class="hx-w-full hx-h-auto"  />
+</section>
 
 ## One platform. Four mission-critical Roles. Unified results.
 
