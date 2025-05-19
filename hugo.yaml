@@ -31,7 +31,7 @@ menu:
       pageRef: about
       weight: 2
     - name: Contact ↗
-      pageRef: contact
+      pageRef: "/contact"
       weight: 3
     #- name: Search
      # weight: 4
