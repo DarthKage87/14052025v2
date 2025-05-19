@@ -51,21 +51,14 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
 <br>
 
 
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols:2"
 
-<div class="grid grid-cols-2 md:grid-cols-2 gap-6">
-
-  {{< hextra/feature-card title="Compliance Leaders" subtitle="Ensure alignment, reduce manual effort, and stay audit-ready at all times. RE:Agent embeds live regulatory guidance into daily workflows and automates policy enforcement to reduce overhead and errors. ." >}}
-
-  {{< hextra/feature-card title="Operational Risk Executives" subtitle="Gain visibility, act quickly, and reduce exposure—without adding complexity. RE:Agent consolidates fragmented signals, flags anomalies in real-time, and enables confident, data-driven responses.." >}}
-
-  {{< hextra/feature-card title="Innovation Owners" subtitle="Bring new products and services to market with built-in compliance and execution clarity. RE:Agent dynamically converts controls into execution-ready launch plans—so innovation moves faster and without friction." >}}
-
-  {{< hextra/feature-card title="M&A and Strategic Growth Teams" subtitle="Accelerate integration, reduce regulatory friction, and unlock value faster. RE:Agent aligns compliance postures across entities—streamlining governance and speeding operational readiness." >}}
+{{< hextra/feature-card title="Compliance Leaders" subtitle="Ensure alignment and stay audit-ready." >}}
+{{< hextra/feature-card title="Risk Executives" subtitle="Gain visibility and reduce exposure." >}}
+{{< hextra/feature-card title="Innovation Owners" subtitle="Launch with compliance clarity." >}}
+{{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value." >}}
 
 </div>
-
-<br>
-
 
 
 <span style="color: #ec008c;">**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**</span>
