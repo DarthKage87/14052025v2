@@ -1,8 +1,8 @@
 ---
 title: Contact
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: 
+next: 
 sidebar:
   open: true
 ---
