@@ -56,6 +56,7 @@ menu:
      #url: "https://twitter.com/"
      # params:
        # icon: x-twitter
+ 
 
 params:
   navbar:
@@ -73,15 +74,16 @@ params:
     width: full
   customCSS:
     - css/custom.css
+  features:
+    copyCode: true
 
   footer:
     enable: true
     displayCopyright: true
     displayreadMore: false
     displaypoweredby: false
-   
-
-  onthispage: false
+    displaysociallinks: true
+    onthispage: true
 
 
 

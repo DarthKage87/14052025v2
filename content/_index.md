@@ -49,15 +49,18 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
   <img src="go.png" alt="Hero banner" class="hx-w-full hx-h-auto"  />
 </section>
 
-## One platform. Four mission-critical Roles. Unified results.
+## One Platform For Your Mission-Critical Roles. 
 
+**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**
 
 <br>
 
 
-<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols:2"
 
-{{< hextra/feature-card title="Compliance Leaders" subtitle="Ensure alignment and stay audit-ready." >}}
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
+style="--hextra-feature-grid-cols:2"
+
+{{< hextra/feature-card title="Compliance Leaders"  subtitle="Ensure alignment and stay audit-ready." >}}
 {{< hextra/feature-card title="Risk Executives" subtitle="Gain visibility and reduce exposure." >}}
 {{< hextra/feature-card title="Innovation Owners" subtitle="Launch with compliance clarity." >}}
 {{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value." >}}
@@ -67,67 +70,76 @@ RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with 
 
 
 
-<span style="color: #ec008c;">**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**</span>
-
-
 ## Scalable Solutions. Transformative Outcomes.
 
 Purpose-built for agility, transparency, and real-time guidance at scale, <span style="color: #ec008c;">RE:Agent delivers business value from day one—without disrupting routines or requiring complex retraining.</span>  Our intuitive AI interfaces enable teams to translate insight into action instantly. The result? Accelerating outcomes, elevating operational performance, and driving innovation.
 
-RE:Agent Modules (WILL NEED LINKS TO WEB PAGES) <br>
-Compliance Engine <br>
-Risk Intelligence Hub <br>
-Innovation Accelerator <br>
-M&A Alignment Optimizer <br>
+
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
+style="--hextra-feature-grid-cols:2"
+
+
+
+{{< hextra/feature-card title="Compliance Engine" >}}
+{{< hextra/feature-card title="Risk Intelligence Hub"  >}}
+{{< hextra/feature-card title="Innovation Accelerator"  >}}
+{{< hextra/feature-card title="M&A Alignment Optimizer"  >}}
+
+</div>
+
+
 
 
 ## From Operational Drag to Business Agility
 
-Banks that adopt RE:Agent experience: <br>
-XX% Faster Audit cycles<br>
-XX% Risk reduction<br>
-XX% Faster time to market<br>
-XX% Reduced costs<br>
+
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
+style="--hextra-feature-grid-cols:2"
+
+{{< hextra/feature-card title="⬆︎ Faster Audit Cycles"  subtitle="RE:Agent Automates evidence collection and embeds controls into workflows—accelerating audit cycles with zero added effort." >}}
+{{< hextra/feature-card title="⬇︎ Risk Reduction" subtitle="RE:Agent reduces risk by turning compliance from a reactive check into a proactive control." >}}
+{{< hextra/feature-card title="⬆︎ Faster Time to Market" subtitle="RE:Agent increases time to market by turning complex regulatory requirements into execution-ready steps from day one." >}}
+{{< hextra/feature-card title="⬇︎ Reduced Costs" subtitle="RE:Agent reduces costs by automating manual compliance tasks and minimizing risk-related rework." >}}
+
+</div>
+
+
 
 
 ## Getting Started is as Easy as 1-2-3
 
 Rational Exponent makes it simple for you to begin seeing value from day one, without complex retraining or process overhauls. Our expert-led onboarding connects RE:Agent to your existing systems quickly and disruption free.
 
-1.	Assess: We evaluate your exiting risk and compliance workflows.
-2.	Integrate: We integrate RE:Agent with minimal disruption—no complex retraining needed.
-3.	Scale: We support your ongoing optimization so you can evolve in sync with regulations and growth.
+1.	<span style="color: #ec008c;">**Assess:**</span> We evaluate your exiting risk and compliance workflows.
+2.	<span style="color: #ec008c;">**Integrate:**</span> We integrate RE:Agent with minimal disruption—no complex retraining needed.
+3.	<span style="color: #ec008c;">**Scale:**</span> We support your ongoing optimization so you can evolve in sync with regulations and growth.
 
-[CTA- SCHEDULE A DEMO]
+<a href="docs/contact">
+<img src="/icons/demo2.svg" alt="Demo" style="vertical-align: middle;" />'
+</a>
 
-## What Makes RE:Agent Different? 
+## What Makes <span style="color: #ec008c;">**RE:Agent**</span> Different? 
 
 RE:Agent is built for the way banks work—and for the way banks need to grow. Our approach is grounded in practical experience and intelligent design that benefit customers:
 
-Ease of Adoption — Intuitive interfaces require little to no training <br>
-Execution-Ready Intelligence -- Embedded guidance right where decisions are made <br>
-Streamlined Operations — Eliminate friction. Reduce rework and risk.<br>
-Accelerated Decisions — Contextual guidance enables fast, explainable actions<br>
-Scalable Intelligence — Grow your operations without bloating your workforce or risk exposure <br>
-Innovation with Control — New products, new markets, zero unnecessary risk<br>
+<span style="color: #ec008c;">**Ease of Adoption**</span>  — Intuitive interfaces require little to no training <br>
+<span style="color: #ec008c;">**Execution-Ready Intelligence**</span> -- Embedded guidance right where decisions are made <br>
+<span style="color: #ec008c;">**Streamlined Operations**</span> — Eliminate friction. Reduce rework and risk.<br>
+<span style="color: #ec008c;">**Accelerated Decisions**</span> — Contextual guidance enables fast, explainable actions<br>
+<span style="color: #ec008c;">**Scalable Intelligence**</span> — Grow your operations without bloating your workforce or risk exposure <br>
+<span style="color: #ec008c;">**Innovation with Control**</span> — New products, new markets, zero unnecessary risk<br>
 
-## Governance and Risk Should Not Be Constraints. They Should Be Growth Catalysts 
+## Governance and Risk Should Be Growth Catalysts. 
 
 Risk management should be about unlocking business value—faster, smarter, and with purpose. Rational Exponent believes they should not be operational overhead—they  should be intelligent drivers of business acceleration.
 RE:Agent –the AI-powered platform that turns governance into growth.
 
-## Xxx xxx xxx xxx xxx (customer logos)
-
-[See our use cases]
-
-## Free XXX for Banking Leaders
-
-Download our XXX to see how Rational Exponent can modernize your banking model—faster, smarter, and prudently. 
-[Download the XXX Now]
 
 ## Lead with Confidence. Growth with Intelligence.
 
 Ready to turn complexity into business agility? Let Rationalize Exponent help  modernize your risk and compliance today.
 
-[Request a Demo]
 
+<a href="docs/contact">
+<img src="/icons/demo2.svg" alt="Demo" style="vertical-align: middle;" />'
+</a>

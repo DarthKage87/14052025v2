@@ -29,3 +29,18 @@
   </div>
 
 </div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; max-width: 800px;">
+  <div style="background-color: #f3f3f3; padding: 1rem; border-radius: 0.5rem; font-size: 1.25rem;">
+    <span style="color: #ec008c; font-weight: bold;">⬆︎</span> Faster Audit cycles
+  </div>
+  <div style="background-color: #f3f3f3; padding: 1rem; border-radius: 0.5rem; font-size: 1.25rem;">
+    <span style="color: #ec008c; font-weight: bold;">⬆︎</span> Risk reduction
+  </div>
+  <div style="background-color: #f3f3f3; padding: 1rem; border-radius: 0.5rem; font-size: 1.25rem;">
+    <span style="color: #ec008c; font-weight: bold;">⬆︎</span> Faster time to market
+  </div>
+  <div style="background-color: #f3f3f3; padding: 1rem; border-radius: 0.5rem; font-size: 1.25rem;">
+    <span style="color: #ec008c; font-weight: bold;">⬇︎</span> Reduced costs
+  </div>
+</div>
