@@ -3,10 +3,9 @@ title:
 toc: false
 ---
 
-<section class="hx-w-full hx-mb-8">
-  <img src="header3.png" alt="Hero banner" class="hx-w-full hx-h-auto"  />
+<section style="width: 100vw; margin-left: calc(-50vw + 50%);">
+  <img src="header3.png" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
 </section>
-
 
 
 ## Banking Moves Fast. Institutional Processes Should Not Hold You Back.
