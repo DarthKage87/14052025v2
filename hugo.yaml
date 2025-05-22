@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Rational Exponent
+toc: false
 
 # import hextra as module
 module:
@@ -18,9 +19,17 @@ markup:
 
 params:
   customCSS: ["css/custom.css"]
+  style: 
+    - css/custom.css
 
 menu:
   main:
+    - name: '<img src="/icons/demo-button.svg" alt="Demo" style="vertical-align: middle;" />'
+      pageRef: /docs/contact
+      weight: 1
+      params:
+        class: nav-demo-button
+        icon: 
     - name: Home
       pageRef: /
       weight: 1
@@ -52,6 +61,7 @@ params:
   navbar:
     displayTitle: false
     displayLogo: true
+    onthispage: false
     logo:
       path: pic18.png
       alt: Rational Exponent Logo
@@ -66,23 +76,19 @@ params:
 
   footer:
     enable: true
-    displayLinkedin: true
     displayCopyright: true
     displayreadMore: false
     displaypoweredby: false
-    socials: 
-      - name: Linkedin
-        weight: 4
-        Url: "https://github.com"
-        params:
-          icon: LinkedIn
+   
 
+  onthispage: false
 
 
 
   editURL:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
 
   theme:
     default: light
