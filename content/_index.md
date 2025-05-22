@@ -28,17 +28,26 @@ toc: false
 ## That’s Why Rational Exponent Exists.
 
 
-<span style="color: #ec008c;">**AI Designed for Banks. Built By Bankers.**</span> 
-<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-1 hx-gap-4 hx-w-full not-prose" style="--hextra-feature-grid-cols:2">
-
-  We are former bankers, regulatory experts, and current-day technologists. We do not just understand the challenge—<span style="color: #ec008c;">**we have lived it.**</span> We recognize the balance between moving fast and managing risk. That is why we have reimagined operational risk and governance as catalysts for transformation and growth, not constraints. Rational Exponent’s AI-powered platform, RE:Agent, empowers banks to operate with precision, speed, and strategic clarity..
-
-  <!-- Card with Image Only -->
-  <div class="bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all h-full">
-    <img src="bwbankers.jpg" alt="Descriptive text" class="w-full h-auto rounded-md" />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
+  <!-- Text Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="text-align: center;">
+      <div style="color: #ec008c; font-weight: bold; font-size: 26px;">AI Built By Bankers</div>
+      <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Designed For Banks</div>
+    </div>
+    <p style="margin-top: 1rem; text-align: center;">
+      Banks today are under increasing pressure to move faster and work smarter.
+      But legacy infrastructure, regulatory complexity, and resource constraints continue
+      to limit growth and delay innovation—at precisely the time when agility is mission-critical.
+    </p>
   </div>
 
+  <!-- Image Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="bwbankers.jpg" alt="Bankers at a table" style="width: 100%; height: auto;" />
+  </div>
 </div>
+
 
 
 ## RE:Agent: Your Engine for Intelligent Business Execution
@@ -143,3 +152,5 @@ Ready to turn complexity into business agility? Let Rationalize Exponent help  m
 <a href="docs/contact">
 <img src="/icons/demo2.svg" alt="Demo" style="vertical-align: middle;" />'
 </a>
+
+

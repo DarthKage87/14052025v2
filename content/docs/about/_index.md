@@ -5,10 +5,98 @@ toc: false
 weight: 1
 ---
 
+<h1 style="text-align: center; color: #ec008c; font-weight: bold;">The Rational Exponent Leadership Team</h1>
 
-# Rational Exponent Leadership Team
 
 With over three decades of collective experience delivering enterprise-scale innovation, our leadership team is recognized for shaping and delivering the foremost transformative software solutions to global customers in financial services, banking, and other regulated industries — partnering with some of the world’s leading institutions.
+
+  <!-- Person 1 -->
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
+  <!-- Text Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="text-align: center;">
+      <div style="color: #ec008c; font-weight: bold; font-size: 26px;">Ryan Schoenfeld</div>
+      <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Executive Officer</div>
+    </div>
+    <p style="margin-top: 1rem; text-align: center;">
+      Ryan Schoenfeld specializes in driving  growth and scaling businesses including leading all sales, account management, and commercial aspects for high-growth and startup companies. With over 25 years of experience in leadership roles, Ryan has led go-to-market strategies across industry sectors such as banking and government. His executive roles have focused on aligning customer successes with enterprise delivery, and generating revenue that has enabled increasing valuation, and preparing for exit and sale. Most recently, Ryan served as Global CRO at Virtual Clarity, acquired by DXC in 2019.
+    </p>
+  </div>
+
+ 
+<!-- Image Column -->
+<div style="flex: 1; min-width: 300px;">
+  <a href="https://www.linkedin.com/in/ryan-s-9501969" target="_blank" rel="noopener noreferrer">
+    <img src="RS-hs.jpg" alt="RS" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
+
+  </div>
+</div>
+<br>
+<br>
+<br>
+  <!-- Person 2-->
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
+  <!-- Text Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="text-align: center;">
+      <div style="color: #ec008c; font-weight: bold; font-size: 26px;">Rens Troost</div>
+      <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Technology Officer</div>
+    </div>
+    <p style="margin-top: 1rem; text-align: center;">
+      Rens Troost is a seasoned CTO and repeat company founder with a proven track record of converting technology innovation into shareholder value. Co-founder of Virtual Clarity and NAME.COM, Rens has also held leadership and board roles with SMTP.COM, Sharpspring, Lehman Brothers, Moore Capital Management, UBS, and DXC. His experience spans startups to global enterprises to public company boards where his focus on transformation has consistently resulted in strategic business growth. 
+    </p>
+  </div>
+
+ 
+<!-- Image Column -->
+<div style="flex: 1; min-width: 300px;">
+  <a href="https://www.linkedin.com/in/renstroost"
+target="_blank" rel="noopener noreferrer">
+    <img src="RT-hs.jpg" alt="RS" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
+
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+  <!-- Person 3-->
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
+  <!-- Text Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="text-align: center;">
+      <div style="color: #ec008c; font-weight: bold; font-size: 26px;">Rens Troost</div>
+      <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Technology Officer</div>
+    </div>
+    <p style="margin-top: 1rem; text-align: center;">
+      Rens Troost is a seasoned CTO and repeat company founder with a proven track record of converting technology innovation into shareholder value. Co-founder of Virtual Clarity and NAME.COM, Rens has also held leadership and board roles with SMTP.COM, Sharpspring, Lehman Brothers, Moore Capital Management, UBS, and DXC. His experience spans startups to global enterprises to public company boards where his focus on transformation has consistently resulted in strategic business growth. 
+    </p>
+  </div>
+
+ 
+<!-- Image Column -->
+<div style="flex: 1; min-width: 300px;">
+  <a href="https://www.linkedin.com/in/renstroost"
+target="_blank" rel="noopener noreferrer">
+    <img src="RT-hs.jpg" alt="RS" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
+
+
+  </div>
+</div>
 
 {{< callout >}}
 <div class="hx-flex">
@@ -21,6 +109,8 @@ With over three decades of collective experience delivering enterprise-scale inn
 >}}
 </div>
 <div class="hx-mx-4">
+
+
 
 ### Ryan Schoenfeld
 
@@ -43,6 +133,8 @@ Ryan Schoenfeld specializes in driving  growth and scaling businesses including 
 >}}
 </div>
 <div class="hx-mx-4">
+
+
 
 ### Rens Troost
 
@@ -97,7 +189,7 @@ Brian Bauer brings to Rational Exponent over two decades of expertise in busines
 {{< /callout>}}
 
 
-# Our Story
+<h1 style="text-align: center; color: #ec008c; font-weight: bold;">Our Story</h1>
 
 
 Massive progress is taking place in enabling AI for the enterprise: from foundation models and guardrails, to development frameworks and retrieval technologies, the pace of technical innovation is unmatched since the dawn of the information age. Seeing the tremendous opportunity this technology represents, and the massive gap between the promise of the technology and the reality of putting it to work for business, our founding team set out to bridge the gap.
@@ -138,8 +230,5 @@ Rational Exponent was founded to address this gap in the market by a team of ban
 
 <br>
 
-{{< hextra/hero-button text="Get in touch!" link="/contact" >}}
-
-
-
+<h1 style="text-align: center; color: #ec008c; font-weight: bold;">{{< hextra/hero-button text="Get in touch!" link="/contact" >}}</h1>
 
