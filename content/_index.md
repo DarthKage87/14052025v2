@@ -130,3 +130,4 @@ Download our XXX to see how Rational Exponent can modernize your banking modelâ€
 Ready to turn complexity into business agility? Let Rationalize Exponent help  modernize your risk and compliance today.
 
 [Request a Demo]
+

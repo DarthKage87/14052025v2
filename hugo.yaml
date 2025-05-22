@@ -65,11 +65,23 @@ params:
     - css/custom.css
 
   footer:
+    enable: true
+    displayLinkedin: true
     displayCopyright: true
-    displayPoweredBy: false
+    displayreadMore: false
+    displaypoweredby: false
+    socials: 
+      - name: Linkedin
+        weight: 4
+        Url: "https://github.com"
+        params:
+          icon: LinkedIn
+
+
+
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
   theme:
