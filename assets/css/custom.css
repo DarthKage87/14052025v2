@@ -3,3 +3,20 @@
 .content {
     font-family: Arial, Helvetica, sans-serif
   }
+
+/* More specific selector to override default Hextra nav styles */
+.nav-demo-button,
+.nav-demo-button a {
+  background-color: #ec008c !important;
+  color: white !important;
+  padding: 0.4rem 1rem !important;
+  border-radius: 0.375rem !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+.nav-demo-button:hover,
+.nav-demo-button a:hover {
+  background-color: #c60076 !important;
+}
