@@ -20,3 +20,13 @@
 .nav-demo-button a:hover {
   background-color: #c60076 !important;
 }
+
+/* Full grey background inside each card */
+.hextra-feature-card {
+  background-color: #f3f4f6; /* light grey */
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  color: #ec008c !important;
+  font-weight: bold !important;
+}
+
