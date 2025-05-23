@@ -4,7 +4,7 @@ toc: false
 ---
 
 <section style="width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="header3.png" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
+  <img src="output.gif" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
 </section>
 
 
@@ -43,7 +43,7 @@ toc: false
 
   <!-- Image Column -->
   <div style="flex: 1; min-width: 300px;">
-    <img src="bwbankers.jpg" alt="Bankers at a table" style="width: 100%; height: auto;" />
+    <img src="stock1.jpg" alt="Bankers at a table" style="width: 100%; height: auto;" />
   </div>
 </div>
 
