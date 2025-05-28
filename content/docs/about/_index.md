@@ -3,6 +3,7 @@ title:
 type: about
 toc: false
 weight: 1
+hide: true
 ---
 
 <h1 style="text-align: center; color: #ec008c; font-weight: bold;">Rational Exponent Leadership Team</h1>
@@ -21,8 +22,9 @@ With over three decades of collective experience delivering enterprise-scale inn
       <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Executive Officer</div>
     </div>
     <p style="margin-top: 1rem; text-align: center;">
-      Ryan Schoenfeld specializes in driving  growth and scaling businesses including leading all sales, account management, and commercial aspects for high-growth and startup companies. With over 25 years of experience in leadership roles, Ryan has led go-to-market strategies across industry sectors such as banking and government. His executive roles have focused on aligning customer successes with enterprise delivery, and generating revenue that has enabled increasing valuation, and preparing for exit and sale. Most recently, Ryan served as Global CRO at Virtual Clarity, acquired by DXC in 2019.
-    </p>
+      With over 25 years of experience in leadership roles, Ryan Schoenfeld has led go-to-market strategies across industry sectors such as banking and government. He specializes in driving revenue growth and scaling businesses, leading all sales, account management, and commercial aspects for high-growth and startup companies. Ryan’s executive roles have focused on aligning customer successes with enterprise delivery and generating revenue that has enabled increasing valuation and preparing for exit and sale. Most recently, Ryan served as Global CRO at Virtual Clarity, starting as the first employee in the Americas with revenue growth from zero to $50M.  When Virtual Clarity was acquired by DXC, he led a portfolio of greater than $2.4B. He holds a Bachelor of Science degree in Political Science and one in Computer Science, as well as a minor in Mathematics from James Madison University. 
+
+</p>    
   </div>
 
  
@@ -50,8 +52,8 @@ With over three decades of collective experience delivering enterprise-scale inn
       <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Technology Officer</div>
     </div>
     <p style="margin-top: 1rem; text-align: center;">
-      Rens Troost is a seasoned CTO and repeat company founder with a proven track record of converting technology innovation into shareholder value. Co-founder of Virtual Clarity and NAME.COM, Rens has also held leadership and board roles with SMTP.COM, Sharpspring, Lehman Brothers, Moore Capital Management, UBS, and DXC. His experience spans startups to global enterprises to public company boards where his focus on transformation has consistently resulted in strategic business growth. 
-    </p>
+   Rens Troost is a seasoned CTO and repeat company founder with a proven track record of converting technology innovation into shareholder value. A founder of Virtual Clarity and NAME.COM, which he helped lead to exit, Rens has also held leadership roles with Lehman Brothers, Moore Capital Management/IMS, UBS AG, and DXC Technology. Rens has served on public company boards on the NASDAQ and TSE with NAME, SMTP.COM, and Sharpspring. With experience spanning early-stage startups to global enterprises, his focus on pragmatic transformation has consistently resulted in strategic business growth. Rens holds a BA degree from Columbia University.  
+  </p>
   </div>
 
  
@@ -76,7 +78,7 @@ target="_blank" rel="noopener noreferrer">
       <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Operating Officer</div>
     </div>
     <p style="margin-top: 1rem; text-align: center;">
-      Brian Glasser brings to Rational Exponent more than 30 years of experience in the financial industry. Brian has led operations and growth at multiple firms, including Spring Lake Consulting, acquired by Mitchell Martin in 2017, and Virtual Clarity, where he served as U.S. CEO where he drove successful acquisition by DXC in 2019. He holds a bachelor’s degree in Finance from Lehigh University and an MBA in Finance and Statistics from NYU’s Stern School of Business.
+      Brian Glasser brings to Rational Exponent more than 30 years of experience in the financial services industry. Brian has led operations and growth at multiple firms, including Spring Lake Consulting, acquired by Mitchell Martin in 2017, and Virtual Clarity, where he served as U.S. CEO and drove the company to successful acquisition by DXC in 2019. He holds a Bachelor of Science degree in Finance from Lehigh University and an MBA in Finance and Statistics from NYU’s Stern School of Business. 
     </p>
   </div>
 
@@ -105,7 +107,7 @@ target="_blank" rel="noopener noreferrer">
       <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">VP of Artificial Intelligence Products</div>
     </div>
     <p style="margin-top: 1rem; text-align: center;">
-      Brian Bauer brings to Rational Exponent over two decades of expertise in business transformation and modernization, leveraging cutting edge technologies to solve business challenges and drive revenue for clients and stakeholders. As VP of Artificial Intelligence Products, he is leading go-to-market strategies that help organizations succeed with AI. Throughout his career, Brian has invented innovative technology products based on NLP, sentiment mining and analysis, and machine learning models—securing patents that are often cited by industry-leading companies such as Google, Microsoft, Sony, AT&T, Ebay, Cisco, Seiko, Stubhub, GE, IBM, and Penn, among dozens of others.
+      Brian Bauer brings to Rational Exponent over two decades of expertise in business transformation and modernization, leveraging cutting-edge technologies to solve business challenges and drive revenue for clients and stakeholders. As VP of Artificial Intelligence Products, he is leading go-to-market strategies that help organizations succeed with AI. Throughout his career, Brian has invented innovative technology products based on NLP, sentiment mining and analysis, and machine learning models, securing patents that are often cited by industry-leading companies such as Google, Microsoft, Sony, AT&T, Ebay, Cisco, Seiko, Stubhub, GE, IBM, and Penn, among dozens of others. Currently, Brian is focused on developing AI technology that enables customers to drive real, reliable business value and strategic outcomes. He holds a Bachelor of Arts degree in Economics from Middlebury College. 
     </p>
   </div>
 
@@ -131,9 +133,7 @@ target="_blank" rel="noopener noreferrer">
       <div style="color: black; font-weight: bold; font-size: 26px; margin-top: 0.3rem;">Chief Revenue Officer</div>
     </div>
     <p style="margin-top: 1rem; text-align: center;">
-      Ashley Cvrkel is the EVP and Chief Revenue Officer at Rational Exponent, where she leads go-to-market strategy and revenue growth, helping financial institutions harness Generative AI to transform governance and risk into business accelerators.
-      She brings over 15 years of experience across fintech, enterprise IT, and cloud transformation. Prior to Rational Exponent, she held sales leadership roles at The Clearing House, Thought Machine, DXC Technology, and Virtual Clarity, where she worked closely with global banks on innovation and modernization initiatives.
-      She is known for building high-performing teams, driving strategic growth, and delivering results in complex, regulated environments.
+      With over a decade of experience in banking consulting and vendor technology, Ashley Cvrkel is a results-oriented leader with extensive expertise in cloud-based solutions and innovative Fintech services. In her role as EVP, Chief Revenue Officer at Rational Exponent, Ashley is responsible for sales and driving revenue growth for the company. Prior to joining Rational Exponent, Ashley served as Director of Sales and Business Development at The Clearing House, where she was responsible for helping enable medium to large-sized financial institutions understand, adopt, and expand their use of real-time payments (RTP) solutions. Previously, she held similar roles at Thought Machine, DXC Technology, Virtual Clarity, and SDLC Partners, L.P.. She holds a Bachelor of Science Degree in Health Information Management and a minor in General Business from Duquesne University. 
     </p>
   </div>
 
