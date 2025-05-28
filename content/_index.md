@@ -4,7 +4,7 @@ toc: false
 ---
 
 <section style="width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="output_logo_fadein_corner.mp4" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
+  <img src="rational_montage_shifted_v7.mp4" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
 </section>
 
 
