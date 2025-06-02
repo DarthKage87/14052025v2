@@ -3,28 +3,81 @@ title:
 toc: false
 ---
 
-<section style="width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="rational_montage_shifted_v7.mp4" alt="Hero banner" style="width: 100%; height: auto; display: block;" />
+<section style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%);">
+  <video autoplay muted loop playsinline style="width: 100%; height: auto; display: block;">
+    <source src="output_with_v12.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <button onclick="window.location.href='/how-it-works'" 
+          style="position: absolute; top: 50%; right: 20%; transform: translateY(-50%);
+                 padding: 1rem 2rem; font-size: 1.1rem; background-color: #ec008c; color: white;
+                 border: none; border-radius: 8px; cursor: pointer; box-shadow: 0 2px px rgba(0,0,0,0.2);">
+    See How It Works
+  </button>
 </section>
+
+
 
 
 ## Banking Moves Fast. Institutional Processes Should Not Hold You Back.
 
-<span style="color: #ec008c;">**Banks today face a paradox:**</span> the demand to innovate at speed—while navigating ever-expanding compliance, risk, and regulatory burdens. Legacy infrastructure, manual processes, regulatory complexities, and resource constraints create friction where you need fluidity, resulting in delayed innovation and increasing costs —at precisely the time when agility is mission-critical for growth.
+<span style="color: #ec008c;">**Banks today face a paradox:**</span> the demand to innovate at speed—while navigating ever-expanding compliance, risk, operational, and regulatory burdens that create friction at precisely the time when agility is mission-critical for growth. 
 
 <!-- <span style="color: #ec008c;">This text is orange-red.</span>*-->
 
-<span style="color: #ec008c;">**The opportunity is clear:**</span>  transform governance and risk from operational overhead into intelligent drivers of business acceleration, adaptability, and scale.
+<span style="color: #ec008c;">**The opportunity is clear:**</span>  transform governance and risk from operational overhead into intelligent drivers of strategic business growth, accelerating innovation and adaptability at scale.
 
-
+<span style="color: #ec008c;">**That’s Why Rational Exponent Exists.**</span> 
 
 <section class="hx-w-full hx-mb-8">
 
 
 
+## <span style="color: #ec008c;">RE:Agent</span> Your Engine for Intelligent Business Enablement
+
+Rational Exponent’s flagship platform, <span style="color: #ec008c;">**RE:Agent**</span>, equips your team to move faster—with greater intelligence, confidence, and control—whether steering compliance, managing risk, streamlining operations, launching innovative new products and services, or executing M&A. <span style="color: #ec008c;">**RE:Agent**</span> embeds execution-ready intelligence into daily workflows, transforming static policies into dynamic guidance, and enabling banks to take smarter actions, innovate safely, unlock business value, and continuously align with prudent governance.
 
 
-## That’s Why Rational Exponent Exists.
+<section class="hx-w-full hx-mb-8">
+  <img src="go.png" alt="Hero banner" class="hx-w-full hx-h-auto"  />
+</section>
+
+## Mission-Critical Roles. One Platform. Unified Results. 
+
+
+<br>
+
+
+
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
+style="--hextra-feature-grid-cols:2"
+
+{{< hextra/feature-card title="Compliance Leaders"  subtitle="Ensure alignment, reduce manual effort, and stay audit-ready at all times." >}}
+{{< hextra/feature-card title="Risk" subtitle="Gain visibility, act quickly, and reduce exposure—without adding complexity" >}}
+{{< hextra/feature-card title="Operations" subtitle="Streamline operations at the source. Detect deviations in real time." >}}
+{{< hextra/feature-card title="Technology & Innovation" subtitle="Bring new products and services to market with built-in compliance and execution clarity." >}}
+{{< hextra/feature-card title="Growth & M&A" subtitle="Accelerate integration, reduce regulatory friction, and unlock value faster." >}}
+
+</div>
+
+## From Operational Drag to Business Agility
+
+</br>
+
+<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
+style="--hextra-feature-grid-cols:2"
+
+{{< hextra/feature-card title="⬆︎ Faster Audit Cycles"  subtitle="RE:Agent Automates evidence collection and embeds controls into workflows—accelerating audit cycles with zero added effort." >}}
+{{< hextra/feature-card title="⬇︎ Risk Reduction" subtitle="RE:Agent reduces risk by turning compliance from a reactive check into a proactive control." >}}
+{{< hextra/feature-card title="⬆︎ Faster Time to Market" subtitle="RE:Agent increases time to market by turning complex regulatory requirements into execution-ready steps from day one." >}}
+{{< hextra/feature-card title="⬇︎ Reduced Costs" subtitle="RE:Agent reduces costs by automating manual compliance tasks and minimizing risk-related rework." >}}
+
+</div>
+
+
+
+## AI Desined for Banks. Built By Bankers.
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
@@ -49,31 +102,8 @@ toc: false
 
 
 
-## RE:Agent: Your Engine for Intelligent Business Execution
-
-RE:Agent equips your team to move faster—<span style="color: #ec008c;">**with greater intelligence, confidence and control**</span> —whether you are steering compliance, managing risk, launching innovative new products and services, or executing M&A. It goes beyond streamlining processes by embedding execution-ready intelligence into daily workflows, transforming static policies into dynamic guidance that enables banks to take smarter actions, innovate safely, unlock business value, and continuously align with prudent governance. 
-
-<section class="hx-w-full hx-mb-8">
-  <img src="go.png" alt="Hero banner" class="hx-w-full hx-h-auto"  />
-</section>
-
-## One Platform For Your Mission-Critical Roles. 
-
-**RE:Agent empowers each function to execute with precision—safely, strategically, and at scale.**
-
-<br>
 
 
-
-<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
-style="--hextra-feature-grid-cols:2"
-
-{{< hextra/feature-card title="Compliance Leaders"  subtitle="Ensure alignment and stay audit-ready." >}}
-{{< hextra/feature-card title="Risk Executives" subtitle="Gain visibility and reduce exposure." >}}
-{{< hextra/feature-card title="Innovation Owners" subtitle="Launch with compliance clarity." >}}
-{{< hextra/feature-card title="M&A Teams" subtitle="Accelerate integration and unlock value." >}}
-
-</div>
 
 
 
@@ -97,19 +127,6 @@ style="--hextra-feature-grid-cols:2"
 
 
 
-
-## From Operational Drag to Business Agility
-
-
-<div class="hextra-feature-grid hx-grid sm:max-lg:hx-grid-cols-2 max-sm:hx-grid-cols-21 hx-gap-4 hx-w-full not-prose"
-style="--hextra-feature-grid-cols:2"
-
-{{< hextra/feature-card title="⬆︎ Faster Audit Cycles"  subtitle="RE:Agent Automates evidence collection and embeds controls into workflows—accelerating audit cycles with zero added effort." >}}
-{{< hextra/feature-card title="⬇︎ Risk Reduction" subtitle="RE:Agent reduces risk by turning compliance from a reactive check into a proactive control." >}}
-{{< hextra/feature-card title="⬆︎ Faster Time to Market" subtitle="RE:Agent increases time to market by turning complex regulatory requirements into execution-ready steps from day one." >}}
-{{< hextra/feature-card title="⬇︎ Reduced Costs" subtitle="RE:Agent reduces costs by automating manual compliance tasks and minimizing risk-related rework." >}}
-
-</div>
 
 
 
